@@ -76,3 +76,19 @@ three: Ken Griffey
 
 
 $\frac{d}{dx}e^{ax}=ae^{ax}\quad \sum_{i=1}^{n}{(X_i - \overline{X})^2}$
+
+\left.\frac{\partial f(x,y)}{\partial x}\right
+
+\begin{align}
+
+\because\begin{cases}
+
+\acute{a}x^2+bx^2+c\gtrless0\gtrless\grave{a}x^2+bx^2+c\\
+
+\acute{a}>0>\grave{a}
+
+\end{cases}\\
+
+\therefore\frac{-b\pm\sqrt{b^2-4\acute{a}c}}{2\acute{a}}{}_\lessgtr^\gtrlessx_\lessgtr^\gtrless\frac{-b\pm\sqrt{b^2-4\grave{a}c}}{2\grave{a}}
+
+\end{align}
