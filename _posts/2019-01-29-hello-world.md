@@ -73,3 +73,6 @@ one: Mark McGwire
 two: Sammy Sosa
 three: Ken Griffey
 ```
+
+
+$\frac{d}{dx}e^{ax}=ae^{ax}\quad \sum_{i=1}^{n}{(X_i - \overline{X})^2}$
