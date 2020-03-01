@@ -77,18 +77,8 @@ three: Ken Griffey
 
 $\frac{d}{dx}e^{ax}=ae^{ax}\quad \sum_{i=1}^{n}{(X_i - \overline{X})^2}$
 
-\left.\frac{\partial f(x,y)}{\partial x}\right
+$$\sum\_{i=0}^{n}i^{2} = \frac{(n2+n)(2n+1)}{6}$$
 
-\begin{align}
+$$f(n)=\begin{cases}n/2,&\text{if $n$ is even}\\\\3n+1,&\text{if $n$ is odd}\end{cases}$$
 
-\because\begin{cases}
-
-\acute{a}x^2+bx^2+c\gtrless0\gtrless\grave{a}x^2+bx^2+c\\
-
-\acute{a}>0>\grave{a}
-
-\end{cases}\\
-
-\therefore\frac{-b\pm\sqrt{b^2-4\acute{a}c}}{2\acute{a}}{}_\lessgtr^\gtrlessx_\lessgtr^\gtrless\frac{-b\pm\sqrt{b^2-4\grave{a}c}}{2\grave{a}}
-
-\end{align}
+$$\begin{array} {l|lcr}index&Left&Center&Right\\\\ \\hline 1 & 5& 6& 7 \\\\ \\hline 2 & 8& 9& 10 \end{array}$$
